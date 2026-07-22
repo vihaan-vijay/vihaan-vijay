@@ -20,3 +20,21 @@ const vihaan = {
     architecture: ["Microservices", "Event-Driven", "REST", "GraphQL", "WebSockets"],
     currentGoal: "Building 150+ production-grade, highly scalable open-source projects!"
 };
+
+🛠️ Tech Stack & Skills
+
+
+📊 GitHub Analytics
+
+
+
+
+🚀 6-Month Flagship Projects Spectrum
+Project	Tech Stack	Description	Status
+🏗️ DevOps Pipeline Visualizer	Next.js, Fastify, TimescaleDB, Docker	Real-time CI/CD pipeline DAG visualizer with anomaly detection	🚧 In Progress
+🌾 AgroSense Platform	Go, React Native, MQTT, InfluxDB	Precision farming IoT sensor ingestion & prediction engine	⏳ Planned
+🔐 SecureVault	Rust (Axum), Web Crypto API, SOPS	Zero-knowledge secret management system	⏳ Planned
+🧬 MindGraph	Next.js, FastAPI, Neo4j, pgvector	AI-driven mental health pattern recognition app	⏳ Planned
+📦 SupplyChainX	Next.js, Solidity, Polygon, IPFS	Blockchain-verified supply chain product passport	⏳ Planned
+
+
